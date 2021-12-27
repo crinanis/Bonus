@@ -1,0 +1,9 @@
+data
+{
+	int x;
+	int y;
+}
+major
+{
+	c equals x+y;
+}

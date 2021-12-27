@@ -1,0 +1,5 @@
+data
+{
+int x;;
+int y;
+}

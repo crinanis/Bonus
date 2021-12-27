@@ -1,0 +1,20 @@
+data
+{
+int function sum(int a int b);
+int b;
+int a;
+int $sum$ sadc;
+}
+
+int function sum(int a, int b)
+{
+	sadc equals a+b;
+	return sadc;
+}
+
+major
+{
+	a equals 1;
+	b equals 2;
+	a equals sum(b,,a,c);
+}

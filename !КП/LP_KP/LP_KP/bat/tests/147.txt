@@ -1,0 +1,10 @@
+data
+{
+	int y;
+	bool boo;
+}
+
+major
+{
+	y equals boo;
+}

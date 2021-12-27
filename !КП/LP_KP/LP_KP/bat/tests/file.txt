@@ -1,0 +1,97 @@
+data
+{
+int x;
+int y;
+int z;
+int k;
+int m;
+int l;
+int [8] myArray 12,3,10,6,4,9,15,21;
+
+string sa;
+string sb;
+string sc;
+
+bool bfs;
+bool bte;
+
+int function sum(int a, int b);
+int function saySomething(string myname);
+bool function Reverse(bool v);
+
+string $saySomething$ boo;
+int $sum$ sadc;
+
+}
+
+int function sum(int a, int b)
+{
+	sadc equals a + b;
+	return sadc;
+}
+
+int function saySomething(string myname)
+{
+	boo equals 'boo, ' + myname;
+	print boo;
+	return 1;
+}
+
+bool function Reverse(bool v)
+{
+	if(v = true)
+	{
+		return false;
+	}
+	return true;
+}
+
+major
+{
+x equals 020;
+print x;
+y equals 13;
+print y;
+l equals sum(x,y);
+print l;
+
+z equals x*y-(sum(x,y)-(l-1))%1;
+print z;
+
+sa equals 'ksusha';
+sb equals 'grusha';
+print 'the result of concatination ';
+sc equals sa+sb;
+print sc;
+
+x equals saySomething(sa);
+
+
+bfs equals false;
+bte equals Reverse(bfs);
+print 'the result of inverting bool variable ';
+print bte;
+
+print 'the first element of array ';
+print myArray[0];
+k equals 0;
+m equals myArray[0];
+
+while(k / 7)
+{
+	if(m < myArray[k])
+	{
+		m equals myArray[k];
+	}
+	k equals k + 1;
+}
+
+print 'max element of array ';
+print m;
+
+x equals isleap(2016);
+x equals isleap(2019);
+print 'present date and time ';
+x equals printcurrentdate();
+return 0;
+}

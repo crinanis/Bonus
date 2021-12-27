@@ -1,0 +1,6 @@
+data
+{
+	int b;
+	int b123;
+}
+

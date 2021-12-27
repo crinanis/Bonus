@@ -1,0 +1,8 @@
+data
+{
+	bool y;
+}
+main
+{
+	y equals tru;	
+}

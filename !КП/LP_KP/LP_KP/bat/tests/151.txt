@@ -1,0 +1,21 @@
+data
+{
+	bool function Reverse(bool v);
+	bool boo;
+	bool abc;
+}
+
+bool function Reverse(bool v)
+{
+	if(v = true)
+	{
+		return false;
+	}
+	return true;
+}
+
+major
+{
+	abc equals true;
+	boo equals Reverse(abc,abc);	
+}

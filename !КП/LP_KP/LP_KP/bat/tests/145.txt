@@ -1,0 +1,8 @@
+data
+{
+	int [6] IntegerArray 1,64,55,5,11,9;
+}
+major
+{
+print IntegerArray[7];
+}

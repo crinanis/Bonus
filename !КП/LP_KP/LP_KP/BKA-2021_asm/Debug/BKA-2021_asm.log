@@ -1,0 +1,21 @@
+﻿Сборка начата 22.12.2021 13:02:06.
+Уровень детализации журнала: Normal.     1>Проект "e:\LP_KP\BKA-2021_asm\BKA-2021_asm.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\BKA-2021_asm.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       _MASM:
+         Assembling BKA-2021_asm.asm...
+         cmd.exe /C "C:\Temp\tmp6be36b43a2ed43d48c890a736a543b59.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\BKA-2021_asm.obj" /W3 /errorReport:prompt  /Ta"BKA-2021_asm.asm"
+       Link:
+         E:\SOFT\Visual Studio\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"E:\LP_KP\Debug\BKA-2021_asm.exe" /INCREMENTAL /ILK:"Debug\BKA-2021_asm.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\LP_KP\Debug\BKA-2021_asm.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\LP_KP\Debug\BKA-2021_asm.lib" /MACHINE:X86 "Debug\BKA-2021_asm.obj"
+         BKA-2021_asm.vcxproj -> E:\LP_KP\Debug\BKA-2021_asm.exe
+       FinalizeBuildStatus:
+         Файл "Debug\BKA-2021_asm.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\BKA-2021_asm.tlog\BKA-2021_asm.lastbuildstate".
+     1>Сборка проекта "e:\LP_KP\BKA-2021_asm\BKA-2021_asm.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.72
