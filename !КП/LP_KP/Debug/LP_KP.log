@@ -1,0 +1,39 @@
+﻿Сборка начата 22.12.2021 12:15:55.
+Уровень детализации журнала: Normal.     1>Проект "e:\LP_KP\LP_KP.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\LP_KP.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         E:\SOFT\Visual Studio\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Analysis.cpp
+         Analysis.cpp
+     1>e:\LP_KP\Analysis.cpp(662,9): warning C4068: неизвестная прагма "IS_ARRAY_WITH_REFERENSE"
+       Link:
+         E:\SOFT\Visual Studio\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"E:\LP_KP\Debug\LP_KP.exe" /INCREMENTAL /ILK:"Debug\LP_KP.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\LP_KP\Debug\LP_KP.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\LP_KP\Debug\LP_KP.lib" /MACHINE:X86 Debug\Analysis.obj
+         Debug\Error.obj
+         Debug\FST.obj
+         Debug\GBR.obj
+         Debug\GenerateToAssembler.obj
+         Debug\In.obj
+         Debug\IT.obj
+         Debug\Log.obj
+         Debug\LP_KP.obj
+         Debug\LT.obj
+         Debug\MFST.obj
+         Debug\Parm.obj
+         Debug\PolishNotation.obj
+         Debug\SemAnalysis.obj
+         LP_KP.vcxproj -> E:\LP_KP\Debug\LP_KP.exe
+       FinalizeBuildStatus:
+         Файл "Debug\LP_KP.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\LP_KP.tlog\LP_KP.lastbuildstate".
+     1>Сборка проекта "e:\LP_KP\LP_KP.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "e:\LP_KP\LP_KP.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         e:\LP_KP\Analysis.cpp(662,9): warning C4068: неизвестная прагма "IS_ARRAY_WITH_REFERENSE"
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:01.40
