@@ -1,4 +1,0 @@
-data
-{
-	bool [3] myArray true,false,true;
-}
