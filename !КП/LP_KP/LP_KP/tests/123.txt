@@ -1,0 +1,5 @@
+data
+{
+	int function foo(int x, int  y);
+	int function foo(int y, int z);
+}

@@ -1,0 +1,9 @@
+data
+{
+	int b;
+}
+
+major
+{
+	b equals b|b;
+}
