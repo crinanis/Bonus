@@ -1,0 +1,14 @@
+data
+{
+int b;
+int bп;
+
+}
+
+
+
+major
+{
+	b equals 5;
+	print b;
+}

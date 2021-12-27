@@ -1,0 +1,11 @@
+Тест:без ошибок
+------- Протокол ------ : 22.12.2021 12:41:20------
+----- Параметры -----
+-in: C:\Users\budan\Desktop\bat\tests\148.txt
+-out: C:\Users\budan\Desktop\bat\tests\148.txt.out.out.out.out
+-log: C:\Users\budan\Desktop\bat\tests\148.txt.log.log.log.log.log
+----- Исходные данные -----
+Размер : 96
+Игнорированные: 0
+Строки    : 16
+Ошибка 123: Lex analysis: переопределение идентификатора функции, строка 13 символ 4
