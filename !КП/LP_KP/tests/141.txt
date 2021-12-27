@@ -1,4 +1,0 @@
-data
-{
-	string [8] myArray 'sf','tdge','thr','yht','yh','rf','e','w';
-}
