@@ -1,0 +1,16 @@
+data
+{
+	int a;
+	int b;
+}
+
+major
+{
+a equals 0;
+b equals 8;
+	if(a,b)
+	{
+		a equals a+b;
+	}
+
+}

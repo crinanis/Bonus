@@ -1,0 +1,4 @@
+data
+{
+int function sum(int a,, int b);
+}

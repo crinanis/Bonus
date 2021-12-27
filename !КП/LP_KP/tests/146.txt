@@ -1,0 +1,17 @@
+data
+{
+int b;
+int function sum(int a, int b);
+}
+
+
+
+int function sum(int a, int b)
+{
+	a equals 12;
+}
+
+major
+{
+
+}
